@@ -1,6 +1,7 @@
 
 s = int(input())
 
-print(s ** 5)
+sam = pow(s, 5)
 
+print(sam)
 
