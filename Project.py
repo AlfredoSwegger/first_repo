@@ -1,6 +1,6 @@
 
-print('Hello world!')
-print('*****')
+s = int(input())
 
-print("YOOOOOOOOOOOOOOOOOOOOOO")
+print(s ** 5)
+
 
